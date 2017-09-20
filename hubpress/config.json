@@ -5,6 +5,23 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://rballan.github.io",
+    "hubpress": "https://rballan.github.io",
+    "theme": "//rballan.github.io/themes/casper",
+    "images": "https://rballan.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
